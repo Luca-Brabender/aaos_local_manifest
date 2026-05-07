@@ -30,7 +30,7 @@ repo sync
 
 ```
 . build/envsetup.sh
-lunch aosp_rpi4-userdebug
+lunch aosp_rpi4_car-userdebug
 make bootimage systemimage vendorimage
 ```
 
