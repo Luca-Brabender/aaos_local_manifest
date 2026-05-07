@@ -16,7 +16,7 @@ sudo pip3 install meson mako jinja2 ply pyyaml
 3. Initialize repo:
 
 ```
-repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r35 --depth=1
+repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r75 --depth=1
 git clone https://github.com/grapeup/aaos_local_manifest.git .repo/local_manifests
 ```
 
